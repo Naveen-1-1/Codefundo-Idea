@@ -5,7 +5,7 @@
                                                                                                                             
 My team, which includes Naveen(me), Rutwik and Shreyas, will like to help to prepare for a disaster and manage a disaster better by creating a website. We have chosen to work on the natural disaster: floods. Our web application will consist of two parts.
 
-1) First, we will provide solutions in order to prepare for a disaster and show what has happened in the past. For example, we will: 
+a) First, we will provide solutions in order to prepare for a disaster and show what has happened in the past. For example, we will: 
 
 1.	Find out the correlation between number of deaths and amount of rainfall during a flood by analysing these datasets;
 
@@ -17,7 +17,7 @@ My team, which includes Naveen(me), Rutwik and Shreyas, will like to help to pre
 4.	Provide simple algorithmic solution by predicting the percentage of survival;
 
 
-2) Second, we will manage the disaster better in the following ways:
+b) Second, we will manage the disaster better in the following ways:
 
 1.	Our website will provide a map which has a facility to connect shelters and volunteer groups by showing location and housing density of each camp. This would ensure that resources are equally provided and shelter is adequately distributed. This also ensures that some camps aren’t overcrowded while others lie in vacancy. 
  
